@@ -1,4 +1,4 @@
 var array = ["Dumb","Ways","dot","id"];
 array.push("Keren", "Sekali");
 
-console.log
+console.log(array.join(" - "))
